@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "137147884715",
+    "project_id": "waled-shop-getx",
+    "storage_bucket": "waled-shop-getx.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:137147884715:android:44bea6314f1281a59643ee",
+        "android_client_info": {
+          "package_name": "com.example.ushop_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "137147884715-3qucr3nt1rfb2rp8tgviaifki3hackvq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhzWSq1rOrWCom09Ar9ju0dVBv-6WLGi0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "137147884715-3qucr3nt1rfb2rp8tgviaifki3hackvq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
